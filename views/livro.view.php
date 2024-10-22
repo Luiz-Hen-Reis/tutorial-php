@@ -1,1 +1,1 @@
-<?= $livro['titulo']; ?>
+<?= $livro->getTitulo(); ?>
